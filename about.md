@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About TEDxYouth@Toronto
+title: About
 permalink: /about/
 ---
 
