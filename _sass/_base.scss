@@ -183,6 +183,34 @@ pre {
     }
 }
 
-.nav {
-    
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.container__team_member { 
+    display: flex;
+    flex-direction: row;
+    padding: 15px 0;
+    justify-content: center;
+    align-items: center;
+}
+
+.container__team_member--text {
+    width: 75%;
+    padding-right: 50px;
+}
+
+.container__team_member--pic {
+    width: 25%;
+}
+
+@media(max-width: 420px) {
+    .container__team_member {
+        flex-direction: column;
+    }
+
+    .container__team_member--pic {
+        width: 75%;
+    }
 }
