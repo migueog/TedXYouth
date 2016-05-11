@@ -1,0 +1,23 @@
+---
+layout: default
+title: Team
+---
+
+<div class="container">
+	{% for team_member in site.team_members %}
+	<div class="container__team_member">
+		<div class="container__team_member--text">
+			<h2>{{team_member.fname}} {{team_member.lname}}</h2>
+			<h4>{{team_member.position}}</h4>
+			<p>{{team_member.bio}}</p>
+			<p>{{team_member.talk}}</p>
+		</div>
+		<div class="container__team_member--pic">
+			<img src="{{team_member.pic}}">
+		</div>
+	</div>
+	{% if forloop.last != true %}
+       <hr>
+    {% endif %}
+	{% endfor %}
+</div>
