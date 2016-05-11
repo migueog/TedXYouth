@@ -1,10 +1,8 @@
 ---
 layout: page
 title: About
-
+permalink: /about/
 ---
-
-<!-- Have Tiro style this page -->
 
 TEDxYouth@Toronto is held annually during the weekend of Universal Children’s Day. The event follows the TED format with a line-up of innovative and inspiring speakers and performers. This year we’re hosting the event at the beautiful, historic Masonic Temple in the heart of Toronto.
 
