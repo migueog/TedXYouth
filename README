@@ -1,0 +1,10 @@
+TEDXYouth Toronto 2016 Website
+
+Todo:
+- About page needs to be styled
+- Example sponsorship page to be created
+- Contact form to be finished
+	- Use SimpleForm to send emails to appropriate TedX email
+- Splash page needs to be created
+- Team page can look better
+	- Sections for each team instead of a single column
