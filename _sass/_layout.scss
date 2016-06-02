@@ -1,54 +1,95 @@
 /**
  * Site header
  */
+
+$ted-red: #e62b1e;
+$ted-black: #000000;
+
 .siteHeader {
     display: flex;
     justify-content: space-between;
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-top: 5px solid $ted-red;
+    border-bottom: 1px solid $ted-black;
     background-color: #fff;
     min-height: 56px;
-    padding: 0 20%;
+    padding: 10px;
 }
 
 .siteHeader__section {
     display: flex;
-    align-content: center;
+    align-items: center;
+    padding: 0 15px;
 }
 
-.siteHeader__section--title{
+.siteHeader__title{
     font-size: 24px;
     font-weight: 200;
-    padding: 10px 0;
+    padding: 5px 15px;
     color: black;
 }
 
-.siteHeader__section--title:hover{
+.siteHeader__title:hover{
     text-decoration: none;
 }
 
-.siteHeader__section--title:visited{
+.siteHeader__title:visited{
     color: black;
 }
 
-.siteHeader__section--item{
+.siteHeaderLogo {
+    padding: 5px 15px;
+    width: 50%;
+}
+
+.siteHeader__item{
     font-size: 16px;
-    padding: 15px 25px;
+    padding: 5px 15px;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -ms-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease;
 }
 
-.siteHeader__section--item:hover{
+.siteHeader__item + .siteHeader__item {
+    margin-left: 15px;
+}
+
+.siteHeader__item:hover{
+    padding-bottom: 15px;
     text-decoration: none;
 }
 
-.siteHeader__section--item:visited{
+.siteHeader__item:visited{
     color: black;
 }
 
-/**
+
+/*
+ * Contact Us
+ */
+
+ .contact__title {
+    text-align: left;
+ }
+
+ .contactform {
+    display: flex;
+    flex-direction: column;
+    padding: 15px 25%;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .contactform__item {
+    padding: 10px;
+ }
+
+/*
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid $ted-red;
     padding: $spacing-unit 0;
 }
 

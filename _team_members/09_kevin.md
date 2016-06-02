@@ -3,7 +3,7 @@
 fname: Kevin
 lname: Chu
 
-position: Speaker Coordinator
+position: Speakers Coordinator
 
 bio: Kevin is a writer, foodie, and big time tennis fanatic. If you can’t reach him, he’s likely stuffing his mouth with pasta and baked goods, or on the courts fighting to the death. During whatever time he has left in the day, you can usually find him napping, reading, or surfing the web for the next great technology to take over his life.
 

@@ -3,7 +3,7 @@
 fname: Jesse 
 lname: Calvert
 
-position: Speaker Coordinator
+position: Speakers Coordinator
 
 bio: Jesse is driven to leave a little of himself with everyone he meets and take a little bit away to feed his own soul. Special event planner, political consultant, baseball addict and passionate progressive, Jesse seeks out opportunities to help people understand themselves and each other.
 
