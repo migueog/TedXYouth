@@ -8,8 +8,7 @@ $ted-black: #000000;
 .siteHeader {
     display: flex;
     justify-content: space-between;
-    border-top: 5px solid $ted-red;
-    border-bottom: 1px solid $ted-black;
+    border-top: 10px solid $ted-red;
     background-color: #fff;
     min-height: 56px;
     padding: 10px;
@@ -63,7 +62,6 @@ $ted-black: #000000;
 .siteHeader__item:visited{
     color: black;
 }
-
 
 /*
  * Contact Us
@@ -152,6 +150,14 @@ $ted-black: #000000;
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
 }
+
+/*
+ * About
+ */
+
+ .about__item {
+    padding: 5px;
+ }
 
 
 
