@@ -11,3 +11,7 @@ Todo:
 - Page load is extreme. Reduce page load plz
 - Make the page more accessible. A11y and all that
 	- Checklist - http://a11yproject.com/checklist.html
+- Add Blog Section
+	- Folder for blog posts
+	- Blog post template
+	- Set up promo team with github access and tutorial to upload blog posts
