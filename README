@@ -8,3 +8,6 @@ Todo:
 - Splash page needs to be created
 - Team page can look better
 	- Sections for each team instead of a single column
+- Page load is extreme. Reduce page load plz
+- Make the page more accessible. A11y and all that
+	- Checklist - http://a11yproject.com/checklist.html
