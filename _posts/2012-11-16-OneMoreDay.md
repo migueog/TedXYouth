@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: One More Day Until TEDxYouth@Toronto
 date: 2012-12-16
 ---

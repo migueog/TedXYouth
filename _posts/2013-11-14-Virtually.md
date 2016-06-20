@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Join Us Virtually on November 16th!
 date: 2013-11-14
 ---

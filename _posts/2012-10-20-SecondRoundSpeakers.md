@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Announcing our Second Round of Speakers
 date: 2012-10-20
 ---

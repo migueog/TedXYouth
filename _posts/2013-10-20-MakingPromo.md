@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: The Making of Our Promo Video
 date: 2013-10-20
 ---

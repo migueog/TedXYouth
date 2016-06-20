@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Our Application!
 date: 2013-10-09
 ---

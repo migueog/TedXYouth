@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Quotes and Highlights from Your Applications
 date: 2012-11-09
 ---

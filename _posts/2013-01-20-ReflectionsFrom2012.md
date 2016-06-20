@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Photos, Videos and Reflections from 2012
 date: 2013-01-20
 ---

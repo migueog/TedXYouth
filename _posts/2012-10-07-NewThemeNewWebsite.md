@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: New Theme, New Website
 date: 2012-10-16
 ---

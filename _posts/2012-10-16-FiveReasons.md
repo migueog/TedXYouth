@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: 5 Reasons why you should apply to attend TEDxYouth@Toronto
 date: 2012-10-16
 ---

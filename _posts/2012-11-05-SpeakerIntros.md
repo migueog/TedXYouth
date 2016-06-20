@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Speaker Intro Videos (and how to join us on Nov 17th)
 date: 2012-11-05
 ---

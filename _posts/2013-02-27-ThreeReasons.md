@@ -1,5 +1,6 @@
 ---
 layout: post
+category: blog
 title: Three Reasons Why You Should Apply to Join the TEDxYouth@Toronto Team
 date: 2013-02-27
 ---
