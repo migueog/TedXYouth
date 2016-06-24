@@ -3,13 +3,30 @@ layout: default
 title: Speakers
 ---
 
-<div class="container">
-	{% for post in site.posts %}
-		{% if post.categories contains 'speaker' %}
-		<li>
-			<a href="{{ post.url }}">{{ post.title }}</a>
-			{{ post.excerpt }}
-		</li>
-		{% endif %}
-	{% endfor %}
+<div class="speakers">
+	<h1>Our 2015 Speakers</h1>
+	<div class="speakers__section">
+		{% for speaker in site.speakers2015 %}
+			<div class="speakers__item">
+				<img class="speakers__item--pic" src="{{ speaker.pic }}"/>
+				<h3 class="speakers__item--title">{{ speaker.name}}</h3>
+				<h4 class="speakers__item--title">{{ speaker.title }}</h4>
+				<p class="speakers__item--description">{{ speaker.desc }}</p>
+				<button class="speakers__item--button">Learn More</button>
+			</div>
+		{% endfor %}
+	</div>
+	<hr>
+	<h1>Our 2014 Speakers</h1>
+	<div class="speakers__section">
+		{% for speaker in site.speakers2014 %}
+			<div class="speakers__item">
+				<img class="speakers__item--pic" src="{{ speaker.pic }}"/>
+				<h3 class="speakers__item--title">{{ speaker.name}}</h3>
+				<h4 class="speakers__item--title">{{ speaker.title }}</h4>
+				<p class="speakers__item--description">{{ speaker.desc }}</p>
+				<button class="speakers__item--button">Learn More</button>
+			</div>
+		{% endfor %}
+	</div>
 </div>

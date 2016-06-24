@@ -13,3 +13,6 @@ markdown: kramdown
 
 collections:
 - team_members
+- speakers2014
+- speakers2015
+- speakers2016

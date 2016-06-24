@@ -1,0 +1,9 @@
+---
+
+name: Eric Wood
+title: Chef & Social Enterprise Maven
+pic: /img/speakers/2015/wood.jpg
+
+bio: Chef Eric Wood has been responsible for the creation of such concepts as Hawthorne Food And Drink, FABARNAK — serving as Founding Executive Chef for all of them. His personal philosophy is to bring community and social enterprise into the food industry. Hawthorn Food And Drink features a 3-month skills training program to build up careers while FABARNAK provides a safe work space for youths that invests it proceeds back into the local community. Eric is also involved in several regional and national social enterprises outside the kitchen, including as the director or the Ontario Restaurant, Hotel, and Motel Associations Board. Currently, Eric is working on the soon to be opened Maple Leaf Tavern, as well as Maintaining his role as Executive Chef of Port Restaurant. Eric lives in Toronto with a mess of cats, one 14 month year old daughter, and his wonderful and tolerant Wife.
+
+---

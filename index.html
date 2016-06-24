@@ -1,8 +1,158 @@
 ---
-layout: default
+layout: hero
 ---
 
-<div class="home">
- <!-- Remove this part and put in splash page details -->
- 
+<div class="hero">
+	<div class="hero__section">
+		<img src="../img/2016logo.png"/>
+	</div>
+	<div class="hero__section">
+		<h1>11/10/5 COUNTDOWN GOES HERE</h1>
+		<p>TEDxYouth@Toronto will bring together a line-up of inspiring speakers, spectacular performers, and Toronto's inquisitive young high school minds in the spirit of "ideas worth spending"</p>
+		<button class="hero__button">Learn More</button>
+	</div>
 </div>
+<div class="speakers">
+	<h1>Our 2015 Speakers</h1>
+	<div class="speakers__section">
+		{% for speaker in site.speakers2015 %}
+			<div class="speakers__item">
+				<img class="speakers__item--pic" src="{{ speaker.pic }}"/>
+				<h3 class="speakers__item--title">{{ speaker.name}}</h3>
+				<h4 class="speakers__item--title">{{ speaker.title }}</h4>
+				<p class="speakers__item--description">{{ speaker.desc }}</p>
+				<button class="speakers__item--button">Learn More</button>
+			</div>
+		{% endfor %}
+	</div>
+	<hr>
+	<h1>Our 2014 Speakers</h1>
+	<div class="speakers__section">
+		{% for speaker in site.speakers2014 %}
+			<div class="speakers__item">
+				<img class="speakers__item--pic" src="{{ speaker.pic }}"/>
+				<h3 class="speakers__item--title">{{ speaker.name}}</h3>
+				<h4 class="speakers__item--title">{{ speaker.title }}</h4>
+				<p class="speakers__item--description">{{ speaker.desc }}</p>
+				<button class="speakers__item--button">Learn More</button>
+			</div>
+		{% endfor %}
+	</div>
+</div>
+<div class="community">
+	<h1 class="community__title">Community</h1>
+	<div id="owl-example" class="owl-carousel">
+	  <div> Your Content </div>
+	  <div> Your Content </div>
+	  <div> Your Content </div>
+	  <div> Your Content </div>
+	  <div> Your Content </div>
+	  <div> Your Content </div>
+	  <div> Your Content </div>
+	</div>
+</div>
+<div class="filler">
+	<img class="filler__pic" src="../img/girls.png"/>
+	<div class="filler__text">
+		<h3 class="filler__text--big">In the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience.</h3>
+
+		<p class="filler__text--small">At a TEDx event, live speakers and TED videos combine to spark discussion and connection in an intimate setting. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program and attendance is capped as per TED regulations, but individual TEDx events are self-organized by members of the community.</p>
+	</div>
+</div>
+<div class="contact__hero">
+	<div class="contact__hero--text">
+		<h3>Send us an email at <a href="info@tedxyouthtoronto.ca">info@tedxyouthtoronto.ca</a> or use the form to contact a specific team</h3>
+		<p>Please follow us on social media by clicking on the buttons below</p>
+	</div>
+	<div class="contact__hero--form">
+		<form>
+			<p><label>Name</label><input type="text" placeholder="Name"></input></p>
+			<p><label>Email</label><input type="email" placeholder="Email"></input></p>
+			<p><label>Inquiry</label><textarea rows="10" cols="30" placeholder="Write message here..."></textarea></p>
+		</form>
+	</div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+
+<script src="../js/owl.carousel.js"></script>
+
+<script>
+$("#owl-example").owlCarousel({
+ 
+    // Most important owl features
+    items : 2,
+    itemsCustom : false,
+    itemsDesktop : [1199,4],
+    itemsDesktopSmall : [980,3],
+    itemsTablet: [768,2],
+    itemsTabletSmall: false,
+    itemsMobile : [479,1],
+    singleItem : false,
+    itemsScaleUp : false,
+ 
+    //Basic Speeds
+    slideSpeed : 200,
+    paginationSpeed : 800,
+    rewindSpeed : 1000,
+ 
+    //Autoplay
+    autoPlay : false,
+    stopOnHover : false,
+ 
+    // Navigation
+    navigation : false,
+    navigationText : ["prev","next"],
+    rewindNav : true,
+    scrollPerPage : false,
+ 
+    //Pagination
+    pagination : true,
+    paginationNumbers: false,
+ 
+    // Responsive 
+    responsive: true,
+    responsiveRefreshRate : 200,
+    responsiveBaseWidth: window,
+ 
+    // CSS Styles
+    baseClass : "owl-carousel",
+    theme : "owl-theme",
+ 
+    //Lazy load
+    lazyLoad : false,
+    lazyFollow : true,
+    lazyEffect : "fade",
+ 
+    //Auto height
+    autoHeight : false,
+ 
+    //JSON 
+    jsonPath : false, 
+    jsonSuccess : false,
+ 
+    //Mouse Events
+    dragBeforeAnimFinish : true,
+    mouseDrag : true,
+    touchDrag : true,
+ 
+    //Transitions
+    transitionStyle : false,
+ 
+    // Other
+    addClassActive : false,
+ 
+    //Callbacks
+    beforeUpdate : false,
+    afterUpdate : false,
+    beforeInit: false, 
+    afterInit: false, 
+    beforeMove: false, 
+    afterMove: false,
+    afterAction: false,
+    startDragging : false,
+    afterLazyLoad : false
+ 
+});
+</script>
+

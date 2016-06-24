@@ -8,23 +8,24 @@ $ted-black: #000000;
 .siteHeader {
     display: flex;
     justify-content: space-between;
-    border-top: 10px solid $ted-red;
+    border-bottom: 10px solid $ted-red;
     background-color: #fff;
     min-height: 56px;
-    padding: 10px;
+    padding: 30px 30px 25px 30px;
 }
 
 .siteHeader__section {
     display: flex;
     align-items: center;
     padding: 0 15px;
+    width: 100%;
 }
 
-.siteHeader__title{
-    font-size: 24px;
-    font-weight: 200;
-    padding: 5px 15px;
-    color: black;
+.siteHeader__nav{
+    width: 75%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
 }
 
 .siteHeader__title:hover{
@@ -37,30 +38,191 @@ $ted-black: #000000;
 
 .siteHeaderLogo {
     padding: 5px 15px;
-    width: 50%;
+    width: 20%;
 }
 
 .siteHeader__item{
-    font-size: 16px;
+    font-size: 14px;
+    font-weight: 700;
     padding: 5px 15px;
-    -webkit-transition: all .5s ease;
-    -moz-transition: all .5s ease;
-    -ms-transition: all .5s ease;
-    -o-transition: all .5s ease;
-    transition: all .5s ease;
-}
-
-.siteHeader__item + .siteHeader__item {
-    margin-left: 15px;
+    text-transform: uppercase;
 }
 
 .siteHeader__item:hover{
-    padding-bottom: 15px;
     text-decoration: none;
 }
 
 .siteHeader__item:visited{
     color: black;
+}
+
+/*
+ * Hero
+ */
+
+.hero {
+    background: url(../img/heroBG.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    min-height: 600px;
+}
+
+.hero__section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    width: 100%;
+    color: white;
+}
+
+/*
+ * Speakers
+ */
+
+.speakers {
+    background: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 5%;
+}
+
+.speakers__section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 5%;
+}
+
+.speakers__item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 25%;
+    padding: 50px 15px; 
+}
+
+.speakers__item--title {
+    color: #114848;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.speakers__item--description {
+    color: #A4A4A4;
+    font-weight: 300;
+    font-size: 14px;
+}
+
+.speakers__item--button {
+    padding: 5px 15px;
+    background: white;
+    border: 1px solid black;
+    text-transform: uppercase;
+}
+
+/*
+ * Blog
+ */
+
+.community {
+    background-color: #E9E9E9;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 5%;
+    height: 100%;
+    min-height: 300px;
+}
+
+.community__title {
+    padding: 15px;
+}
+
+/*
+ * Filler
+ */
+
+.filler {
+    background: linear-gradient(0deg, #A61F28, #7F1E26);
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    min-height: 300px;
+}
+
+.filler__pic {
+    width: 25%;
+    margin-top: -50px;
+    padding-right: 75px;
+}
+
+.filler__text {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    padding:15px 15px 0 15px;
+}
+
+.filler__text--big {
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.filler__text--small {
+    font-weight: 300;
+    font-size: 12px;
+}
+
+
+/*
+ * Contact--Hero
+ */
+
+.contact__hero {
+    background: url(../img/heroBG.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    min-height: 300px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact__hero--text {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+}
+
+.contact__hero--form {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    align-items: center;
+    justify-content: center;
 }
 
 /*
@@ -86,70 +248,38 @@ $ted-black: #000000;
 /*
  * Site footer
  */
-.site-footer {
+.siteFooter {
     border-top: 1px solid $ted-red;
     padding: $spacing-unit 0;
-}
-
-.footer-heading {
-    font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
-}
-
-.contact-list,
-.social-media-list {
-    list-style: none;
-    margin-left: 0;
-}
-
-.footer-col-wrapper {
-    font-size: 15px;
-    color: $grey-color;
-    margin-left: -$spacing-unit / 2;
-    @extend %clearfix;
-}
-
-.footer-col {
-    float: left;
-    margin-bottom: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
-}
-
-.footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
-}
-
-@include media-query($on-laptop) {
-    .footer-col-1,
-    .footer-col-2 {
-        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-        width:         calc(50% - (#{$spacing-unit} / 2));
-    }
-
-    .footer-col-3 {
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
+    background: #343434;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    height: 100%;
+    min-height: 200px;
+    a {
+        color: white;
     }
 }
 
-@include media-query($on-palm) {
-    .footer-col {
-        float: none;
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
-    }
+.siteFooter__links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
 }
+
+.siteFooter__item {
+    padding: 5px 5px;
+    text-decoration: none;
+}
+
 
 /*
  * About
@@ -159,7 +289,9 @@ $ted-black: #000000;
     padding: 5px;
  }
 
-
+ .about__item--title {
+    font-size: 42px;
+ }
 
 /**
  * Page content
