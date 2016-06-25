@@ -77,7 +77,7 @@ $ted-black: #000000;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 15px;
+    padding: 15px 0;
     width: 100%;
     color: white;
 }
@@ -99,7 +99,8 @@ $ted-black: #000000;
     background: none;
     border: 1px solid white;
     text-transform: uppercase;
-    color: white;
+    color: white;   
+    font-size: 18px;
 }
 
 /*
