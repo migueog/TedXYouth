@@ -90,6 +90,18 @@ $ted-black: #000000;
     text-align: center;
 }
 
+.hero__section--desc {
+    padding: 5% 15%;
+}
+
+.hero__section--button {
+    padding: 5px 15px;
+    background: none;
+    border: 1px solid white;
+    text-transform: uppercase;
+    color: white;
+}
+
 /*
  * Clock
  */
