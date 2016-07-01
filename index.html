@@ -44,18 +44,18 @@ layout: hero
 		{% endfor %}
 	</div>
 </div>
-<div class="community">
+<!--<div class="community">
 	<h1 class="community__title	">Community</h1>
 	<div id="owl-example" class="owl-carousel">
-	  <div> Your Content </div>
-	  <div> Your Content </div>
-	  <div> Your Content </div>
-	  <div> Your Content </div>
-	  <div> Your Content </div>
-	  <div> Your Content </div>
-	  <div> Your Content </div>
+ 		{% for blog in site.blog %}
+ 			<div class="carousel__item">
+				<img class="carousel__item--pic" src"{{ blog.pic}}"/>
+				<h4 class="carousel__item--title"> {{blog.title}}</h4>
+				<p class="carousel__item--desc"> {{blog.desc}}</p>
+ 			</div>
+ 		{% endfor %}
 	</div>
-</div>
+</div> -->
 <div class="filler">
 	<img class="filler__pic" src="../img/girls.png"/>
 	<div class="filler__text">
@@ -71,9 +71,18 @@ layout: hero
 	</div>
 	<div class="contact__hero--form">
 		<form>
-			<p><label>Name</label><input type="text" placeholder="Name"></input></p>
-			<p><label>Email</label><input type="email" placeholder="Email"></input></p>
-			<p><label>Inquiry</label><textarea rows="10" cols="30" placeholder="Write message here..."></textarea></p>
+			<div class="form__row">
+				<p><label>Name</label></p>
+				<p><input type="text" placeholder="Name"></input></p>
+			</div>
+			<div class="form__row">
+				<p><label>Email</label></p>
+				<p><input type="email" placeholder="Email"></input></p>
+			</div>
+			<div class="form__row">
+				<p><label>Inquiry</label></p>
+				<p><textarea rows="5" cols="20" placeholder="Write message here..."></textarea></p>
+			</div>
 		</form>
 	</div>
 </div>
@@ -86,7 +95,7 @@ layout: hero
 $("#owl-example").owlCarousel({
  
     // Most important owl features
-    items : 2,
+    items : 3,
     itemsCustom : false,
     itemsDesktop : [1199,4],
     itemsDesktopSmall : [980,3],
