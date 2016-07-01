@@ -3,6 +3,7 @@ layout: post
 category: blog
 title: 5 Reasons why you should apply to attend TEDxYouth@Toronto
 date: 2012-10-16
+pic: /img/post_img/post5.png
 ---
 
 It’s that time of the year again. The time when applications open, and youth from across the Greater Toronto Area open that application and think long and hard about why attending TEDxYouth@Toronto is so important for them.

@@ -3,6 +3,7 @@ layout: post
 category: blog
 title: Speaker Intro Videos (and how to join us on Nov 17th)
 date: 2012-11-05
+pic: /img/post_img/post7.png
 ---
 
 There are less than 2 weeks until TEDxYouth@Toronto and we're very excited about the big day!

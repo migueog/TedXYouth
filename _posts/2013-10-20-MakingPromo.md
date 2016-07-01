@@ -3,9 +3,10 @@ layout: post
 category: blog
 title: The Making of Our Promo Video
 date: 2013-10-20
+pic: /img/post_img/post16.png
 ---
 
-![promovideoheader](/img/post_img/promovid-header.jpg)
+<!-- ![promovideoheader](/img/post_img/promovid-header.jpg) -->
 To introduce you to the theme and get you excited about our event on November 16, we have collaborated with Neon Tie Films to bring you a promotional video coming soon to a computer screen near you.
 
 Ever wondered how a video is made or what goes on behind the scenes at a film set? This weekend the crew, actors and Director/Producer Aleksey Matviyenko were busy filming and we sent Kateryna Shpir from the TEDxYouth@Toronto PR and Communications team on location. Here is her report:
