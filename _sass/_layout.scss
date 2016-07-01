@@ -611,7 +611,7 @@ $ted-black: #000000;
 
 @media(max-width: $on-mobile) {
   .container__team_member {
-    flex-direction: column;
+    flex-direction: column  ;
   }
   .container__team_member--pic {
     width: 75%;
@@ -620,7 +620,7 @@ $ted-black: #000000;
 
 @media(max-width: $on-tablet) {
   .container__team_member--pic {
-    width: 50%;
+    width: 100%;
   }
   .container__team_member--text {
     p {
