@@ -94,7 +94,7 @@ $ted-black: #000000;
  */
 
 .hero {
-    background: url(../img/heroBG.png) no-repeat center center fixed; 
+    background: url(../img/heroBG.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -132,7 +132,7 @@ $ted-black: #000000;
     background: none;
     border: 1px solid white;
     text-transform: uppercase;
-    color: white;   
+    color: white;
     font-size: 18px;
 }
 
@@ -246,7 +246,7 @@ $ted-black: #000000;
     align-items: center;
     justify-content: space-around;
     width: 25%;
-    padding: 50px 15px; 
+    padding: 50px 15px;
 }
 
 .speakers__item--title {
@@ -303,6 +303,55 @@ $ted-black: #000000;
 
 .community__title {
     padding: 15px;
+}
+.posts {
+    background: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 5%;
+}
+
+.posts__section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 5%;
+}
+
+.posts__item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    width: 25%;
+    padding: 50px 15px;
+}
+
+.posts__item--title {
+    color: #114848;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 24px;
+}
+@media (max-width: $on-mobile) {
+  .posts__section {
+    flex-direction: column;
+  }
+  .posts__item {
+    width: 100%;
+  }
+  .posts__item--title {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: $on-tablet) {
+  .posts__item--title {
+    font-size: 14px;
+  }
 }
 
 /*
@@ -376,7 +425,7 @@ $ted-black: #000000;
  */
 
 .contact__hero {
-    background: url(../img/heroBG.png) no-repeat center center fixed; 
+    background: url(../img/heroBG.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -422,7 +471,7 @@ $ted-black: #000000;
     width: 100%;
     h3, p{
       padding: 15px;
-    } 
+    }
   }
 }
 
@@ -511,6 +560,10 @@ $ted-black: #000000;
  */
 .page-content {
     padding: $spacing-unit 0;
+    margin-bottom: $spacing-unit;
+    margin: auto;
+    width: 90%;
+    padding: 5px;
 }
 
 .page-heading {
@@ -539,7 +592,7 @@ $ted-black: #000000;
 /**
  * Posts
  */
- 
+
 .post-header {
     margin-bottom: $spacing-unit;
 }
@@ -592,7 +645,7 @@ $ted-black: #000000;
     padding: 0 15%;
 }
 
-.container__team_member { 
+.container__team_member {
   display: flex;
   flex-direction: row;
   padding: 15px 0;
