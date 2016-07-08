@@ -13,27 +13,27 @@ layout: community
 	{% endfor %}
 </div>
 </div>
-
-<div class="stories">
+<hr>
+<div class="posts">
 	<h1 href="/stories.html">Stories</h1>
-	<div class="stories__section">
+	<div class="posts__section">
 	{% for posts in site.stories limit: 3 %}
-		<div class="stories__item">
-			<img class="stories__item--pic" src="{{ stories.pic }}">
-			<a class="stories__item--title" href="{{ stories.url }}">{{ stories.title }}</a>
+		<div class="posts__item">
+			<img class="posts__item--pic" src="{{ stories.pic }}">
+			<a class="posts__item--title" href="{{ stories.url }}">{{ stories.title }}</a>
 			<!-- <p class="posts__item--description">{{ post.desc }} </p> -->
 		</div>
 	{% endfor %}
 </div>
 </div>
-
-<div class="tools">
+<hr>
+<div class="posts">
 	<h1 href="/tools.html">Resources & Tools</h1>
-	<div class="tools__section">
+	<div class="posts__section">
 	{% for posts in site.tools %}
-		<div class="tools__item">
-			<img class="tools__item--pic" src="{{ tools.pic }}">
-			<a class="tools__item--title" href="{{ tools.url }}">{{ tools.title }}</a>
+		<div class="posts__item">
+			<img class="posts__item--pic" src="{{ tools.pic }}">
+			<a class="posts__item--title" href="{{ tools.url }}">{{ tools.title }}</a>
 			<!-- <p class="posts__item--description">{{ post.desc }} </p> -->
 		</div>
 	{% endfor %}

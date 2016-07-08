@@ -1,16 +1,15 @@
 ---
 layout: community
-title: tools
 ---
 
 
-<div class="tools">
-	<h1></h1>
-	<div class="tools__section">
+<div class="posts">
+	<h1>Tools</h1>
+	<div class="posts__section">
 	{% for posts in site.tools %}
-		<div class="tools__item">
-			<img class="tools__item--pic" src="{{ tools.pic }}">
-			<a class="tools__item--title" href="{{ tools.url }}">{{ tools.title }}</a>
+		<div class="posts__item">
+			<img class="posts__item--pic" src="{{ tools.pic }}">
+			<a class="posts__item--title" href="{{ tools.url }}">{{ tools.title }}</a>
 			<!-- <p class="posts__item--description">{{ post.desc }} </p> -->
 		</div>
 	{% endfor %}
