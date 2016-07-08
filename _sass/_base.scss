@@ -77,15 +77,15 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: $ted-black;
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: $ted-black;
     }
 
     &:hover {
-        color: $text-color;
+        color: $ted-black;
         text-decoration: underline;
     }
 }
