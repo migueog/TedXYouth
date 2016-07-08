@@ -12,7 +12,7 @@ title: Speakers
 				<h3 class="speakers__item--title">{{ speaker.name}}</h3>
 				<h4 class="speakers__item--title">{{ speaker.title }}</h4>
 				<p class="speakers__item--description">{{ speaker.desc }}</p>
-				<button class="speakers__item--button">Learn More</button>
+				<button class="speakers__item--button" onclick="{{ speaker.url }}">Learn More</button>
 			</div>
 		{% endfor %}
 	</div>
