@@ -3,7 +3,6 @@ layout: post
 category: blog
 title: Announcing our Second Round of Speakers
 date: 2012-10-20
-pic: /img/post_img/post6.png
 ---
 
 TEDxYouth@Toronto 2012 is pleased to welcome our second round of speakers/performers!  Andrew, Chris, Aziza and Rohit, thanks for joining us and welcome!
