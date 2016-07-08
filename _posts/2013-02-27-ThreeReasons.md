@@ -3,6 +3,7 @@ layout: post
 category: blog
 title: Three Reasons Why You Should Apply to Join the TEDxYouth@Toronto Team
 date: 2013-02-27
+pic: /img/post_img/post11.png
 ---
 
 Your chance to join the TEDxYouth@Toronto team this year has arrived, and the applications are pouring in.  You may be wondering though, what makes this such a unique volunteer opportunity?  Based on input from our team members and my experiences, here are a few reasons why you should apply!
