@@ -1,15 +1,22 @@
 ---
-layout: default
+layout: community
 title: Blog
 ---
 
-<div class="container">
+
+<div class="posts">
+	<h1></h1>
+	<div class="posts__section">
 	{% for post in site.posts %}
-		{% if post.categories contains 'blog' %}
-		<li>
+		<div class="posts__item">
+			<img class="posts__item--pic" src="{{ post.pic }}">
+			<a class="posts__item--title" href="{{ post.url }}">{{ post.title }}</a>
+			<!-- <p class="posts__item--description">{{ post.desc }} </p> -->
+		</div>
+		<!-- <li>
 			<a href="{{ post.url }}">{{ post.title }}</a>
 			{{ post.excerpt }}
-		</li>
-		{% endif %}
+		</li> -->
 	{% endfor %}
+</div>
 </div>
