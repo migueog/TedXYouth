@@ -3,7 +3,6 @@ layout: post
 category: blog
 title: New Theme, New Website
 date: 2012-10-16
-pic: /img/post_img/post4.png
 ---
 
 Welcome to the new TEDxYouth@Toronto site! We hope you enjoy it as much as we have redesigning it.

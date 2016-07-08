@@ -3,7 +3,6 @@ layout: post
 category: blog
 title: One More Day Until TEDxYouth@Toronto
 date: 2012-12-16
-pic: /img/post_img/post9.png
 ---
 
 Tomorrow is the big day!  We are finalizing the schedule for the day, buying last minute supplies, double-checking our streaming capabilities and setting up the stage at the Ontario Science Centre.

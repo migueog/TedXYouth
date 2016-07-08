@@ -3,7 +3,6 @@ layout: post
 category: blog
 title: Quotes and Highlights from Your Applications
 date: 2012-11-09
-pic: /img/post_img/post8.png
 ---
 
 On the evening of October 25th we, the entire TEDxYouth Toronto Outreach Team, locked ourselves in a meeting room for hours.  Across a long black desk covered with laptops, sushi containers, cupcakes and homemade cookies, we sat with our high stacks of applications and pored over every word.
