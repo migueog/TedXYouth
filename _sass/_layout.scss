@@ -27,7 +27,28 @@ $ted-black: #000000;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: flex-end;
+    ul {
+      display: flex;
+      flex-direction: row;
+    }
+    li {
+      list-style-type: none;
+      ul {
+        display: none;
+      }
+      &:hover {
+        ul {
+          display: block;
+          position: absolute;
+          background: white;
+          margin: 0;
+          margin-left: 15px;
+          padding: 0;
+        }
+      }
+    }
 }
+
 
 .siteHeader__title:hover{
     text-decoration: none;
