@@ -3,6 +3,7 @@ layout: post
 category: blog
 title: Our Application!
 date: 2013-10-09
+pic: /img/post_img/post15.png
 ---
 
 The application deadline for TEDxYouth@Toronto is fast approaching. If you have not applied yet, there is still time to do so.

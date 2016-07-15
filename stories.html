@@ -1,0 +1,17 @@
+---
+layout: community
+---
+
+
+<div class="posts">
+	<h1>Stories</h1>
+	<div class="posts__section">
+	{% for posts in site.stories %}
+		<div class="posts__item">
+			<img class="posts__item--pic" src="{{ stories.pic }}">
+			<a class="posts__item--title" href="{{ stories.url }}">{{ stories.title }}</a>
+			<!-- <p class="posts__item--description">{{ post.desc }} </p> -->
+		</div>
+	{% endfor %}
+</div>
+</div>

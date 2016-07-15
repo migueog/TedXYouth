@@ -3,6 +3,7 @@ layout: post
 category: blog
 title: Photos, Videos and Reflections from 2012
 date: 2013-01-20
+pic: /img/post_img/post10.png
 ---
 Dear TEDxers,
 
