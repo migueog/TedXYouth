@@ -415,12 +415,11 @@
 .posts__item {
   display: flex;
   flex-direction: column;
-  align-content: center;
+
+  margin:auto;
   width: 25%;
   padding: 50px 15px;
   align-items: center;
-  justify-content: space-around;
-  align-self: auto;
 }
 
 .posts__item--title {
