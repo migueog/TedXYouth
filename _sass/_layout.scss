@@ -309,11 +309,21 @@
 * community assets
 */
 
+/*  SECTIONS  */
+.section {
+	clear: both;
+	padding: 0px 5%;
+	margin: 5px;
+  width: 90%;
+
+}
+
 /*  COLUMN SETUP  */
 .col {
 	display: block;
 	float:left;
 	margin: 1% 0 1% 1.6%;
+  text-align: center;
 }
 .col:first-child { margin-left: 0; }
 
@@ -405,10 +415,12 @@
 .posts__item {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: space-around;
+  align-content: center;
   width: 25%;
   padding: 50px 15px;
+  align-items: center;
+  justify-content: space-around;
+  align-self: auto;
 }
 
 .posts__item--title {
