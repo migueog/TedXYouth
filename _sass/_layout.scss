@@ -344,6 +344,7 @@
 /*  GRID OF THREE  */
 .span_3_of_3 {
 	width: 100%;
+  column-gap: 0px;
 }
 .span_2_of_3 {
 	width: 66.1%;
@@ -427,7 +428,18 @@
   text-transform: uppercase;
   font-weight: 700;
   font-size: 24px;
+  line-height: 1.5em;
+  height: 3em;
+  overflow: hidden;
+  width: 300px;
 }
+
+.posts__item--pic {
+  max-width: 230px;
+  height: auto;
+  margin: 0;
+}
+
 @media (max-width: $on-mobile) {
 .posts__section {
   flex-direction: column;
