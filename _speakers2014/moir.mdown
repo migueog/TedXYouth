@@ -1,6 +1,6 @@
 ---
 
-name: Scott Moir & Tessa Virtue
+name: Scott Moir <br>& <br> Tessa Virtue
 title: Olympic Ice Dancers, Gold Medalists
 pic: /img/speakers/2014/moir.jpg
 

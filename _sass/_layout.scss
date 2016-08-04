@@ -267,17 +267,25 @@
   padding: 50px 15px;
 }
 
+.speakers__item--name {
+  color: #114848;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 22px;
+}
+
 .speakers__item--title {
   color: #114848;
   text-transform: uppercase;
   font-weight: 700;
-  font-size: 24px;
+  font-size: 18px;
 }
 
 .speakers__item--description {
   color: #A4A4A4;
   font-weight: 300;
-  font-size: 14px;
+  font-size: 18px;
+  font-weight: 700;
 }
 
 .speakers__item--button {
@@ -558,25 +566,27 @@
 .contact__hero--text {
   display: flex;
   flex-direction: column;
-  width: 25%;
+  width: 30%;
+  padding-left: 200px;
 }
 
 .contact__hero--form {
   display: flex;
   flex-direction: column;
-  width: 25%;
+  width: 40%;
+  padding-right: 150px;
   align-items: center;
   justify-content: space-around;
 }
 
 .form__row {
-display: flex;
-flex-direction: row;
-align-items: center;
-justify-content: space-around;
-p {
-  padding-right: 25px;
-}
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  p {
+    padding-right: 25px;
+  }
 }
 
 @media (max-width: $on-mobile) {
