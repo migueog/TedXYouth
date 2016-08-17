@@ -93,7 +93,7 @@ layout: hero
 
 <script>
 $("#owl-example").owlCarousel({
- 
+
     // Most important owl features
     items : 3,
     itemsCustom : false,
@@ -104,74 +104,74 @@ $("#owl-example").owlCarousel({
     itemsMobile : [479,1],
     singleItem : false,
     itemsScaleUp : false,
- 
+
     //Basic Speeds
     slideSpeed : 200,
     paginationSpeed : 800,
     rewindSpeed : 1000,
- 
+
     //Autoplay
     autoPlay : false,
     stopOnHover : false,
- 
+
     // Navigation
     navigation : false,
     navigationText : ["prev","next"],
     rewindNav : true,
     scrollPerPage : false,
- 
+
     //Pagination
     pagination : true,
     paginationNumbers: false,
- 
-    // Responsive 
+
+    // Responsive
     responsive: true,
     responsiveRefreshRate : 200,
     responsiveBaseWidth: window,
- 
+
     // CSS Styles
     baseClass : "owl-carousel",
     theme : "owl-theme",
- 
+
     //Lazy load
     lazyLoad : false,
     lazyFollow : true,
     lazyEffect : "fade",
- 
+
     //Auto height
     autoHeight : false,
- 
-    //JSON 
-    jsonPath : false, 
+
+    //JSON
+    jsonPath : false,
     jsonSuccess : false,
- 
+
     //Mouse Events
     dragBeforeAnimFinish : true,
     mouseDrag : true,
     touchDrag : true,
- 
+
     //Transitions
     transitionStyle : false,
- 
+
     // Other
     addClassActive : false,
- 
+
     //Callbacks
     beforeUpdate : false,
     afterUpdate : false,
-    beforeInit: false, 
-    afterInit: false, 
-    beforeMove: false, 
+    beforeInit: false,
+    afterInit: false,
+    beforeMove: false,
     afterMove: false,
     afterAction: false,
     startDragging : false,
     afterLazyLoad : false
- 
+
 });
 </script>
 
 <script>
-var deadline = 'Nov 19 2016 10:00:00 GMT-0400';
+var deadline = 'Nov 13 2016 10:00:00 GMT-0400';
 function time_remaining(endtime){
 	var t = Date.parse(endtime) - Date.parse(new Date());
 	var seconds = Math.floor( (t/1000) % 60 );
@@ -182,7 +182,7 @@ function time_remaining(endtime){
 }
 function run_clock(id,endtime){
 	var clock = document.getElementById(id);
-	
+
 	// get spans where our clock numbers are held
 	var days_span = clock.querySelector('.days');
 	var hours_span = clock.querySelector('.hours');
@@ -191,13 +191,13 @@ function run_clock(id,endtime){
 
 	function update_clock(){
 		var t = time_remaining(endtime);
-		
+
 		// update the numbers in each part of the clock
 		days_span.innerHTML = t.days;
 		hours_span.innerHTML = ('0' + t.hours).slice(-2);
 		minutes_span.innerHTML = ('0' + t.minutes).slice(-2);
 		seconds_span.innerHTML = ('0' + t.seconds).slice(-2);
-		
+
 		if(t.total<=0){ clearInterval(timeinterval); }
 	}
 	update_clock();
@@ -205,4 +205,3 @@ function run_clock(id,endtime){
 }
 run_clock('clockdiv',deadline);
 </script>
-
