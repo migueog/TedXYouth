@@ -1,9 +1,10 @@
 ---
 
+layout: speaker
 name: Daniel Rodic
 title: Value-Driven Serial Entrepreneur
 pic: /img/speakers/2015/rodic.jpg
 
-bio: Daniel Rodic is the Co-Founder of Exact Media, his third company in the marketing & technology industry. Exact Media is reinventing the direct mail industry — bypassing postal companies and instead leveraging the excess space in outgoing eCommerce parcels to deliver offers straight into a consumers home. Clients include global brands such as L’Oréal, Unilever and P&G, while top-tier retailers such as Gilt.com, Zulily.com, Walmart and Best Buy are just some of the recognizable partners Exact Media’s delivery network. Prior to starting Exact Media, Daniel was Managing Director of Luxe Box, which was the largest eCommerce subscription services in Canada, fueled by partnerships with global prestige brands owned by L’Oréal, Estée Lauder, LVMH, Coty, Prada and Procter & Gamble. Daniel‘s first company, DineWithMe, was a mobile marketing solution for restaurants, which was funded by The Next 36, a program backed by some of the wealthiest entrepreneurs and business leaders in North America. Daniel represented Canada at the 2013 G20 Young Entrepreneur’s Summit in Moscow, Russia.
-
 ---
+
+Daniel Rodic is the Co-Founder of Exact Media, his third company in the marketing & technology industry. Exact Media is reinventing the direct mail industry — bypassing postal companies and instead leveraging the excess space in outgoing eCommerce parcels to deliver offers straight into a consumers home. Clients include global brands such as L’Oréal, Unilever and P&G, while top-tier retailers such as Gilt.com, Zulily.com, Walmart and Best Buy are just some of the recognizable partners Exact Media’s delivery network. Prior to starting Exact Media, Daniel was Managing Director of Luxe Box, which was the largest eCommerce subscription services in Canada, fueled by partnerships with global prestige brands owned by L’Oréal, Estée Lauder, LVMH, Coty, Prada and Procter & Gamble. Daniel‘s first company, DineWithMe, was a mobile marketing solution for restaurants, which was funded by The Next 36, a program backed by some of the wealthiest entrepreneurs and business leaders in North America. Daniel represented Canada at the 2013 G20 Young Entrepreneur’s Summit in Moscow, Russia.

@@ -1,6 +1,6 @@
 ---
 
-fname: Chauncey 
+fname: Chauncey
 lname: Ha
 
 position: Design Team
@@ -9,6 +9,6 @@ bio: Chauncey is a nerd and social butterfly. During the day he works as a graph
 
 talk: His favourite TED talk is Simon Sinek’s “How Great Leaders Inspire Action.”
 
-pic: img/team/chauncey.png
+pic: /img/team/chauncey.png
 
 ---

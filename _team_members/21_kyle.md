@@ -9,6 +9,6 @@ bio: Kyle is passionate about the intersection of design, business, and technolo
 
 talk: His favourite TED Talk is <a href="https://www.youtube.com/watch?v=h11u3vtcpaY">“Hackschooling makes me happy”</a> by Logan LaPlante.
 
-pic:  img/team/kyle.png
+pic:  /img/team/kyle.png
 
 ---

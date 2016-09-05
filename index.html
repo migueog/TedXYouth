@@ -26,32 +26,37 @@ layout: hero
 		<button class="hero__section--button">Learn More</button>
 	</div>
 </div>
+<div class="filler__volunteer">
+	<h1>Call for applications!</h1>
+	<h2>Delegate applications open on September 6th</h2>
+	<button class="volunteer--button"><a href="/delegate/">Learn More</a></button>
+</div>
 <div class="speakers">
 	<h1>Our 2015 Speakers</h1>
 	<div class="speakers__section">
-		{% for speaker in site.speakers2015 %}
+		{% for speaker in site.speakers2015 limit:3 %}
 			<div class="speakers__item">
 				<img class="speakers__item--pic" src="{{ speaker.pic }}"/>
 				<h3 class="speakers__item--title">{{ speaker.name}}</h3>
 				<h4 class="speakers__item--title">{{ speaker.title }}</h4>
 				<p class="speakers__item--description">{{ speaker.desc }}</p>
-				<button class="speakers__item--button">Learn More</button>
 			</div>
 		{% endfor %}
 	</div>
+	<button class="speakers__btn"><a href="/speakers/">See more Speakers</a></button>
 	<hr>
 	<h1>Our 2014 Speakers</h1>
 	<div class="speakers__section">
-		{% for speaker in site.speakers2014 %}
+		{% for speaker in site.speakers2014 limit:3 %}
 			<div class="speakers__item">
 				<img class="speakers__item--pic" src="{{ speaker.pic }}"/>
 				<h3 class="speakers__item--title">{{ speaker.name}}</h3>
 				<h4 class="speakers__item--title">{{ speaker.title }}</h4>
 				<p class="speakers__item--description">{{ speaker.desc }}</p>
-				<button class="speakers__item--button">Learn More</button>
 			</div>
 		{% endfor %}
 	</div>
+	<button class="speakers__btn"><a href="/speakers/">See more Speakers</a></button>
 </div>
 <!--<div class="community">
 	<h1 class="community__title	">Community</h1>

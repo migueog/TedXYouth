@@ -9,6 +9,6 @@ bio: Sabeen is an avid reader, passionate about learning, travel and food (who i
 
 talk: Her favourite TED Talk is Brené Brown’s “The Power of Vulnerability”.
 
-pic:  img/team/sabeen.png
+pic:  /img/team/sabeen.png
 
 ---

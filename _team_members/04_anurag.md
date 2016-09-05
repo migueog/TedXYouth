@@ -9,6 +9,6 @@ bio: Anurag is passionate about cars, traveling and really big on networking. He
 
 talk: His Favorite TED Talk is Dan Pink’s “The Puzzle of Motivation“
 
-pic:  img/team/anurag.png
+pic:  /img/team/anurag.png
 
 ---

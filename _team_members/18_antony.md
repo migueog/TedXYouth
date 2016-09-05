@@ -9,6 +9,6 @@ bio: Antony is the type of guy who always is willing to give a helping hand. Whe
 
 talk: His favourite TED Talk is Robert Waldinger's "What make a good life? Lessons from the longest study on happiness"
 
-pic:  img/team/antony.png
+pic:  /img/team/antony.png
 
 ---

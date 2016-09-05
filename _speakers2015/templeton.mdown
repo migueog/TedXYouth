@@ -1,9 +1,10 @@
 ---
 
+layout: speaker
 name: The Templeton Philharmonic
 title: Comedy Duo Wizards (Performer)
 pic: /img/speakers/2015/templeton.jpg
 
-bio: The Templeton Philharmonic are a comedy duo from Toronto, Canada, comprised of Gwynne Phillips and Briana Templeton. They’ve picked up several awards for their work including “Best Comedy Duo” at L.A. Comedy Festival, and “Producer’s Pick” at Toronto Sketchfest. In the past, they have also performed at festivals including the New York Sketch Comedy Festival, JFL42, and Chicago Sketchfest. In addition to their sketch work, the pair star in their original web series “Womanish” on CBC. They have also produced several site specific theatre pieces including the “Grey Gardens” inspired play “An Evening In July” at Toronto’s SummerWorks Performance Festival. This fall, they will be featured at Generator, a live show hosted by astronaut Col. Chris Hadfield at Massey Hall.
-
 ---
+
+The Templeton Philharmonic are a comedy duo from Toronto, Canada, comprised of Gwynne Phillips and Briana Templeton. They’ve picked up several awards for their work including “Best Comedy Duo” at L.A. Comedy Festival, and “Producer’s Pick” at Toronto Sketchfest. In the past, they have also performed at festivals including the New York Sketch Comedy Festival, JFL42, and Chicago Sketchfest. In addition to their sketch work, the pair star in their original web series “Womanish” on CBC. They have also produced several site specific theatre pieces including the “Grey Gardens” inspired play “An Evening In July” at Toronto’s SummerWorks Performance Festival. This fall, they will be featured at Generator, a live show hosted by astronaut Col. Chris Hadfield at Massey Hall.

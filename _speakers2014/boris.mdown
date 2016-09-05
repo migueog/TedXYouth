@@ -1,10 +1,10 @@
 ---
 
+layout: speaker
 name: The Incredible Boris
 title: Comedy Hypnotist
 pic: /img/speakers/2014/boris.jpg
 
-
-bio: Boris is an award-winning performer that travels worldwide and has appeared at venues ranging from schools, corporate functions, theatre, fairs, headlining in Las Vegas, to entertaining troops in Afghanistan and Kuwait. Boris motivates and inspires, while leaving a lasting impression. His stage name, The Incredible Boris, describes the sentiment of every performance literally – a positive attitude and constant state of mind. Boris delivers a powerful message of limitless possibilities as part of a hilarious interactive performance.
-
 ---
+
+Boris is an award-winning performer that travels worldwide and has appeared at venues ranging from schools, corporate functions, theatre, fairs, headlining in Las Vegas, to entertaining troops in Afghanistan and Kuwait. Boris motivates and inspires, while leaving a lasting impression. His stage name, The Incredible Boris, describes the sentiment of every performance literally – a positive attitude and constant state of mind. Boris delivers a powerful message of limitless possibilities as part of a hilarious interactive performance.

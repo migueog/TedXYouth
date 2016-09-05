@@ -9,6 +9,6 @@ bio: Ellen wants to live in a world where emails are short, businesses are innov
 
 talk: Her favourite TED talk is Brené Brown's "The Power of Vulnerability.
 
-pic:  img/team/ellen.png
+pic:  /img/team/ellen.png
 
 ---

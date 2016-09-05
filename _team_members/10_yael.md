@@ -9,6 +9,6 @@ bio: Yael is fascinated by the ways in which technology can positively impact gl
 
 talk: Her favourite TED Talk is Amy Cuddy's "Your Body Language Shapes Who You Are".
 
-pic:  img/team/yael.png
+pic:  /img/team/yael.png
 
 ---

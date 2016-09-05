@@ -123,6 +123,16 @@
   width: 100%;
   color: white;
 }
+.filler__volunteer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 15px 0;
+  width: 100%;
+  color: white;
+  background: linear-gradient(0deg, #A61F28, #7F1E26);
+}
 .hero__section--chart {
   display: flex;
   flex-direction: row;
@@ -141,6 +151,17 @@
   text-transform: uppercase;
   color: white;
   font-size: 18px;
+}
+.volunteer--button {
+  padding: 5px 15px;
+  background: none;
+  border: 1px solid white;
+  text-transform: uppercase;
+  color: white;
+  font-size: 18px;
+  a {
+    color: white;
+  }
 }
 @media (max-width: $on-mobile) {
   .hero {
@@ -190,7 +211,7 @@
   font-weight: 400;
   font-size: 14px;
 }
-.clockdivider{
+.clockdivider {
   border-left: 1px solid white;
   height: 100%;
 }
@@ -223,6 +244,8 @@
   background: white;
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
   text-align: center;
   padding: 5%;
 }
@@ -242,8 +265,8 @@
   width: 25%;
   padding: 50px 15px;
 }
-.speakers__item--pic{
-  border-radius:100%;
+.speakers__item--pic {
+  border-radius: 100%;
 }
 .speakers__item--name {
   color: #114848;
@@ -263,11 +286,25 @@
   font-size: 18px;
   font-weight: 700;
 }
+.speakers__item--bio {
+  color: #A4A4A4;
+  font-weight: 300;
+  font-size: 12px;
+  font-weight: 700;
+}
 .speakers__item--button {
   padding: 5px 15px;
   background: white;
   border: 1px solid black;
   text-transform: uppercase;
+}
+.speakers__btn {
+  padding: 5px 15px;
+  background: white;
+  border: 1px solid black;
+  text-transform: uppercase;
+  margin-bottom: 50px;
+  font-size: 18px;
 }
 @media (max-width: $on-mobile) {
   .speakers__section {
@@ -284,6 +321,30 @@
   .speakers__item--title {
     font-size: 14px;
   }
+}
+.speaker__header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 30px;
+}
+.speaker__header--text {
+  display: flex;
+  flex-direction: column;
+}
+.speaker__pic {
+  border-radius: 30px;
+}
+.speaker__content {
+  margin: 5%;
+}
+.social {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 15px;
 }
 /*
 * community assets

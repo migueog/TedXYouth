@@ -9,6 +9,6 @@ bio: Sam is an avid Sneakerhead who’s continually battling a shortage of close
 
 talk: Her favourite TED Talk is Terry Moore’s “How to Tie Your Shoes”.
 
-pic:  img/team/samantha.png
+pic:  /img/team/samantha.png
 
 ---
