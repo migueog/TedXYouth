@@ -403,7 +403,7 @@
 }
 .community__section {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
@@ -427,9 +427,10 @@
 * Blog
 */
 .community {
-  background-color: #E9E9E9;
+  background-color: white;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  flex-wrap: wrap;
   text-align: center;
   padding: 5%;
   height: 100%;

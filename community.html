@@ -3,20 +3,7 @@ layout: community
 permalink: /community/
 
 ---
-
-<div class="community__titles">
-	<h1>
-		<a href="/blog.html">Blog</a>
-	</h1>
-	<h1>
-		<a href="/tools.html">Tools and Resources</a>
-	</h1>
-	<h1>
-		<a href="/stories.html">Stories</a>
-	</h1>
-</div>
-
-<div class="communitySlider">
+<div class="community">
 	{% for post in site.community %}
 		<div class="posts__item">
 			<img class="posts__item--pic" src="{{ post.pic }}">
