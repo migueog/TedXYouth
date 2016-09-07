@@ -4,6 +4,7 @@ layout: speaker
 name: Kat Sandler & Tom McGee
 title: Theatre Production Maestros
 pic: /img/speakers/2015/mcgee.jpg
+video: https://youtu.be/veTpu4HsGP0
 
 ---
 

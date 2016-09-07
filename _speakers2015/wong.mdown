@@ -4,6 +4,7 @@ layout: speaker
 name: Julielynn Wong
 title: 3D Printing Physician
 pic: /img/speakers/2015/wong.jpg
+video: https://youtu.be/lDwyywK-k2U
 
 ---
 

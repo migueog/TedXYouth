@@ -4,6 +4,7 @@ layout: speaker
 name: Chris Studer
 title: Founder and Executive Director at The Get REAL Movement
 pic: /img/speakers/2014/studer.jpg
+video: https://youtu.be/3_NINWUD9SQ
 
 ---
 

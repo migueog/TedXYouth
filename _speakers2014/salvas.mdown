@@ -4,6 +4,7 @@ layout: speaker
 name: Laura Salvas
 title: Emcee, Sketch Comedian
 pic: /img/speakers/2014/salvas.jpg
+video: https://youtu.be/JqhJ6q84AAM
 
 ---
 

@@ -4,6 +4,7 @@ layout: speaker
 name: Eric Wood
 title: Chef & Social Enterprise Maven
 pic: /img/speakers/2015/wood.jpg
+video: https://youtu.be/kBAxMJfzC8Q
 
 ---
 

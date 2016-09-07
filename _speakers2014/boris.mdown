@@ -4,6 +4,7 @@ layout: speaker
 name: The Incredible Boris
 title: Comedy Hypnotist
 pic: /img/speakers/2014/boris.jpg
+video: https://youtu.be/_KRsyx3IJ94
 
 ---
 

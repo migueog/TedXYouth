@@ -4,6 +4,7 @@ layout: speaker
 name: Sandhya <br>& <br> Swapna Mylabathula
 title: MSc and MD candidate, University of Toronto
 pic: /img/speakers/2014/mylabathula.jpg
+video: https://youtu.be/kh_gJO6vOHk
 
 ---
 

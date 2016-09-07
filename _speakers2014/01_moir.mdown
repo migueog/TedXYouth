@@ -4,6 +4,7 @@ layout: speaker
 name: Scott Moir <br>& <br> Tessa Virtue
 title: Olympic Ice Dancers, Gold Medalists
 pic: /img/speakers/2014/moir.jpg
+video: https://youtu.be/NaMaM4orwIA
 
 ---
 

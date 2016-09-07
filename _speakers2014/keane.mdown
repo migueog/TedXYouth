@@ -4,6 +4,7 @@ layout: speaker
 name: Lynn Keane
 title: Author, Advocacy on Depression & Suicide Prevention
 pic: /img/speakers/2014/keane.jpg
+video: https://youtu.be/L8Vx_5Zr_kM
 
 ---
 

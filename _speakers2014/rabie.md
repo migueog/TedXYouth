@@ -4,6 +4,7 @@ layout: speaker
 name: Anton Rabie
 title: Co Founder and CEO of Spin Master Ltd
 pic: /img/speakers/2014/rabie.png
+video: https://youtu.be/4TTVgEX96Oc
 
 ---
 

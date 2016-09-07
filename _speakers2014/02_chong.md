@@ -4,6 +4,7 @@ layout: speaker
 name: Eric Chong
 title: Master Chef Canada
 pic: /img/speakers/2014/chong.jpg
+video: https://youtu.be/g8w7B_FO3_o
 
 ---
 

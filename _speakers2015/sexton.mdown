@@ -4,6 +4,7 @@ layout: speaker
 name: Troy Sexton
 title: Body Percussion Rhythmist (Performer)
 pic: /img/speakers/2015/sexton.jpg
+video: https://youtu.be/UsEiJd8yID0
 
 ---
 

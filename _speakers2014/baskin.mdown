@@ -4,6 +4,7 @@ layout: speaker
 name: Morgan Baskin
 title: Teen Mayoral Candidate
 pic: /img/speakers/2014/baskin.jpg
+video: https://youtu.be/rQdrBP_Fyfo
 
 ---
 

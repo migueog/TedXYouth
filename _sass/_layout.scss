@@ -70,6 +70,15 @@
 .siteHeader__item:visited {
   color: black;
 }
+
+.siteHeader__social {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  a {
+    padding:0 3px;
+  }
+}
 @media (max-width: $on-mobile) {
   .siteHeader__section {
     flex-direction: column;
@@ -145,12 +154,16 @@
   font-size: 16px;
 }
 .hero__section--button {
-  padding: 5px 15px;
+  padding: 15px 30px;
   background: none;
   border: 1px solid white;
-  text-transform: uppercase;
   color: white;
-  font-size: 18px;
+  font-size: 24px;
+  text-transform: uppercase;
+  font-weight: 700;
+  a {
+    color: white;
+  }
 }
 .volunteer--button {
   padding: 5px 15px;
@@ -693,6 +706,16 @@
 .siteFooter__item {
   padding: 5px;
   text-decoration: none;
+}
+
+.siteFooter__social {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  color: white;
+  a {
+    padding:0 15px;
+  }
 }
 @media (max-width: $on-mobile) {
   .siteFooter__links {

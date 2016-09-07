@@ -4,6 +4,7 @@ layout: speaker
 name: Josh Liu
 title: Co-Founder and CEO of SeamlessMD, Forbes 30 Under 30
 pic: /img/speakers/2014/liu.jpg
+video: https://youtu.be/z1SiVBl9YG8
 
 ---
 

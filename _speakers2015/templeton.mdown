@@ -4,6 +4,7 @@ layout: speaker
 name: The Templeton Philharmonic
 title: Comedy Duo Wizards (Performer)
 pic: /img/speakers/2015/templeton.jpg
+video: https://youtu.be/OPb-NyXe_UA
 
 ---
 

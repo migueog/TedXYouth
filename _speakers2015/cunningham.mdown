@@ -4,6 +4,7 @@ layout: speaker
 name: DJ Cunningham
 title: Personalized Learning Activist
 pic: /img/speakers/2015/cunningham.jpg
+video: https://youtu.be/AI8Pp5aDgcw
 
 ---
 

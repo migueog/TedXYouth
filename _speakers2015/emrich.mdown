@@ -4,6 +4,7 @@ layout: speaker
 name: Tom Emrich
 title: Wearable Tech Champion
 pic: /img/speakers/2015/emrich.png
+video: https://youtu.be/mWPDaWx4dDw
 
 ---
 

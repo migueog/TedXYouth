@@ -4,6 +4,7 @@ layout: speaker
 name: Billions Cobra
 title: Street Performer, Astro Physician and Mathematician
 pic: /img/speakers/2014/cobra.jpg
+video: https://youtu.be/ggllV2XBJEE
 
 ---
 
