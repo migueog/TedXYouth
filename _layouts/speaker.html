@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="container">
+
+
+  <header class="speaker__header">
+    <div class="speaker__header--text">
+      <h1 class="speaker__name">{{ page.name }}</h1>
+      <h2 class="speaker__title">{{ page.title }}</h2>
+      <a class="speaker__title" href="{{ page.video }}">View Presentation Here - <i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a>
+    </div>
+    <img class="speaker__pic" src="{{page.pic}}"/>
+  </header>
+
+  <div class="speaker__content">
+    {{ content }}
+  </div>
+
+</div>

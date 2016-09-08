@@ -9,6 +9,6 @@ bio: Kevin is a writer, foodie, and big time tennis fanatic. If you can’t reac
 
 talk: His favourite TED Talk is Margaret Heffernan’s “Dare to Disagree”.
 
-pic:  img/team/kevin.png
+pic:  /img/team/kevin.png
 
 ---

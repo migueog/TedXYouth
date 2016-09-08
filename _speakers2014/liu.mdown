@@ -1,9 +1,11 @@
 ---
 
+layout: speaker
 name: Josh Liu
 title: Co-Founder and CEO of SeamlessMD, Forbes 30 Under 30
 pic: /img/speakers/2014/liu.jpg
-
-bio: Dr. Joshua Liu is a physician turned entrepreneur who believes that the future of healthcare depends on the intersection of design, data and technology. He is currently the co-founder & CEO of SeamlessMD, a healthcare startup advancing patient care in surgery using mobile & web technology. During his medical training, Joshua co-led a project at the University Health Network’s Centre for Innovation in Complex Care on hospital readmissions. Joshua was named a Forbes 30 Under 30 in Healthcare in 2014 and previously a Canadian Top 20 Under 20.
+video: https://youtu.be/z1SiVBl9YG8
 
 ---
+
+Dr. Joshua Liu is a physician turned entrepreneur who believes that the future of healthcare depends on the intersection of design, data and technology. He is currently the co-founder & CEO of SeamlessMD, a healthcare startup advancing patient care in surgery using mobile & web technology. During his medical training, Joshua co-led a project at the University Health Network’s Centre for Innovation in Complex Care on hospital readmissions. Joshua was named a Forbes 30 Under 30 in Healthcare in 2014 and previously a Canadian Top 20 Under 20.

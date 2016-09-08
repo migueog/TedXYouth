@@ -1,9 +1,11 @@
 ---
 
+layout: speaker
 name: Julielynn Wong
 title: 3D Printing Physician
 pic: /img/speakers/2015/wong.jpg
-
-bio: Julielynn Wong, MD, MPH, is a Harvard-educated, award-winning public health physician, innovator, and educator. She founded 3D4MD (www.3d4md.com), which creates 3D printable medical supplies to deliver healthcare in the most challenging places to those who need it the most. Miss Wong was recently honoured as a United Nations Women’s Entrepreneurship Day Distinguished Fellow
+video: https://youtu.be/lDwyywK-k2U
 
 ---
+
+Julielynn Wong, MD, MPH, is a Harvard-educated, award-winning public health physician, innovator, and educator. She founded 3D4MD (www.3d4md.com), which creates 3D printable medical supplies to deliver healthcare in the most challenging places to those who need it the most. Miss Wong was recently honoured as a United Nations Women’s Entrepreneurship Day Distinguished Fellow

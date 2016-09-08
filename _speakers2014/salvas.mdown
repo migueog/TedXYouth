@@ -1,9 +1,11 @@
 ---
 
+layout: speaker
 name: Laura Salvas
 title: Emcee, Sketch Comedian
 pic: /img/speakers/2014/salvas.jpg
-
-bio: Laura Salvas has been performing comedy for more than 15 years, getting her start on her high school improv team as part of the Canadian Improv Games, for which she later volunteered as a judge and trainer. Her sketch comedy duo, Two Weird Ladies, was nominated in 2012 for the Fresh Meat showcase of upcoming comedic talent, and their Fringe show was named one of the Top 10 Comedy Shows of 2012 by NOW Magazine. As a standup comedian, Laura is a former Toronto Comedy Brawl finalist and has played fundraiser galas for Gilda’s Club of Toronto. She has trained with The Second City and Bad Dog Theatre in Toronto, The Annoyance Theatre in Chicago, and has performed at comedy festivals across North America. You may have seen her in a few TV commercials and an episode of Undercover High. Laura is a graduate of the Ryerson University Journalism program, and has had work published in various newspapers and magazines. After finishing university, she moved to England via cargo ship and has since travelled through every continent except Antarctica – which is next on her list
+video: https://youtu.be/JqhJ6q84AAM
 
 ---
+
+Laura Salvas has been performing comedy for more than 15 years, getting her start on her high school improv team as part of the Canadian Improv Games, for which she later volunteered as a judge and trainer. Her sketch comedy duo, Two Weird Ladies, was nominated in 2012 for the Fresh Meat showcase of upcoming comedic talent, and their Fringe show was named one of the Top 10 Comedy Shows of 2012 by NOW Magazine. As a standup comedian, Laura is a former Toronto Comedy Brawl finalist and has played fundraiser galas for Gilda’s Club of Toronto. She has trained with The Second City and Bad Dog Theatre in Toronto, The Annoyance Theatre in Chicago, and has performed at comedy festivals across North America. You may have seen her in a few TV commercials and an episode of Undercover High. Laura is a graduate of the Ryerson University Journalism program, and has had work published in various newspapers and magazines. After finishing university, she moved to England via cargo ship and has since travelled through every continent except Antarctica – which is next on her list

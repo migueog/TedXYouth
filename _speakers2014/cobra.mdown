@@ -1,10 +1,11 @@
 ---
 
+layout: speaker
 name: Billions Cobra
 title: Street Performer, Astro Physician and Mathematician
 pic: /img/speakers/2014/cobra.jpg
-
-
-bio: After graduating with high distinction from the University of Toronto with a degree in astrophysics and mathematics, Aidan Koper’s career took a dramatic left turn as he became a renowned circus and street performer known as Billions Cobra.  He has since entertained thousands of audiences all over the world with his whip cracking skills, body contortion, fire juggling and other dangerous spectacles.  Aidan’s career highlights include performing on The Late Show with David Letterman, and the Ellen show.
+video: https://youtu.be/ggllV2XBJEE
 
 ---
+
+After graduating with high distinction from the University of Toronto with a degree in astrophysics and mathematics, Aidan Koper’s career took a dramatic left turn as he became a renowned circus and street performer known as Billions Cobra.  He has since entertained thousands of audiences all over the world with his whip cracking skills, body contortion, fire juggling and other dangerous spectacles.  Aidan’s career highlights include performing on The Late Show with David Letterman, and the Ellen show.

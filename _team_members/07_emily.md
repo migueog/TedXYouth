@@ -9,6 +9,6 @@ bio: Learning and trying out new experiences excites Emily. She has an obsession
 
 talk: Her favourite TED Talk is Matt Cutts’ “Try Something New for 30 Days”.
 
-pic:  img/team/emily.png
+pic:  /img/team/emily.png
 
 ---

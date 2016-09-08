@@ -1,16 +1,18 @@
 ---
 layout: community
 title: Blog
+permalink: /blog/
+
 ---
 
 
 <div class="posts">
 	<h1>Blog</h1>
 	<div class="posts__section">
-	{% for post in site.posts %}
+	{% for post in site.community %}
 		<div class="posts__item">
-			<img class="posts__item--pic" src="{{ post.pic }}">
-			<a class="posts__item--title" href="{{ post.url }}">{{ post.title }}</a>
+			<img src="{{ community.pic }}" />
+			<a class="posts__item--title" href="{{ community.url }}">{{ post.title }}</a>
 			<!-- <p class="posts__item--description">{{ post.desc }} </p> -->
 		</div>
 		<!-- <li>

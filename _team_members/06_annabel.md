@@ -9,6 +9,6 @@ bio: Annabel is obsessed with the science behind human behaviour - especially ho
 
 talk: Her favourite TED Talk is Susan Cain’s “The Power of Introverts”.
 
-pic:  img/team/annabel.png
+pic:  /img/team/annabel.png
 
 ---

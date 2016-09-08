@@ -1,6 +1,6 @@
 ---
 
-fname: Jing Jing 
+fname: Jing Jing
 lname: Tan
 
 position: Community Manager
@@ -9,6 +9,6 @@ bio: With a passion for education, technology and psychology, Jing Jing finds a 
 
 talk: Her favourite TED Talk is Dan Gilbert’s “The Surprising Science of Happiness”.
 
-pic:  img/team/jing.png
+pic:  /img/team/jing.png
 
 ---

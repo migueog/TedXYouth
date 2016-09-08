@@ -1,6 +1,6 @@
 ---
 
-fname: Jesse 
+fname: Jesse
 lname: Calvert
 
 position: Speakers Coordinator
@@ -9,6 +9,6 @@ bio: Jesse is driven to leave a little of himself with everyone he meets and tak
 
 talk: His favorite Ted Talk is Dave Isay "Everyone around you has a story the world needs to hear".
 
-pic:  img/team/jesse.png
+pic:  /img/team/jesse.png
 
 ---

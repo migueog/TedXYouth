@@ -9,6 +9,6 @@ bio: Shankar loves learning about cool, new stuff -- really anything cool and an
 
 talk: His favourite TED Talk is Louis van Ahn’s “Massive-scale Online Collaboration”.
 
-pic:  img/team/shankar.png
+pic:  /img/team/shankar.png
 
 ---

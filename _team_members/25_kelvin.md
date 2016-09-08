@@ -9,6 +9,6 @@ bio: Kelvin often thinks about how technology and better data can enable organiz
 
 talk: His favourite TED Talk is “How Simple Ideas Lead to Scientific Discoveries” by Adam Savage.
 
-pic:  img/team/kelvin.png
+pic:  /img/team/kelvin.png
 
 ---

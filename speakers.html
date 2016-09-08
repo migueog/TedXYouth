@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Speakers
+permalink: /speakers/
+
 ---
 
 <div class="speakers">
@@ -9,10 +11,9 @@ title: Speakers
 		{% for speaker in site.speakers2015 %}
 			<div class="speakers__item">
 				<img class="speakers__item--pic" src="{{ speaker.pic }}"/>
-				<h3 class="speakers__item--title">{{ speaker.name}}</h3>
-				<h4 class="speakers__item--title">{{ speaker.title }}</h4>
-				<p class="speakers__item--description">{{ speaker.desc }}</p>
-				<button class="speakers__item--button" onclick="{{ speaker.url }}">Learn More</button>
+				<h3 class="speakers__item--name">{{ speaker.name}}</h3>
+				<h4 class="speakers__item--description">{{ speaker.title }}</h4>
+				<button class="speakers__item--button"><a href="{{ speaker.url }}">Learn More</a></button>
 			</div>
 		{% endfor %}
 	</div>
@@ -22,10 +23,9 @@ title: Speakers
 		{% for speaker in site.speakers2014 %}
 			<div class="speakers__item">
 				<img class="speakers__item--pic" src="{{ speaker.pic }}"/>
-				<h3 class="speakers__item--title">{{ speaker.name}}</h3>
-				<h4 class="speakers__item--title">{{ speaker.title }}</h4>
-				<p class="speakers__item--description">{{ speaker.desc }}</p>
-				<button class="speakers__item--button">Learn More</button>
+				<h3 class="speakers__item--name">{{ speaker.name}}</h3>
+				<h4 class="speakers__item--description">{{ speaker.title }}</h4>
+				<button class="speakers__item--button"><a href="{{ speaker.url }}">Learn More</a></button>
 			</div>
 		{% endfor %}
 	</div>

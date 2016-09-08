@@ -9,6 +9,6 @@ bio: Paris is amazed at how quickly technology has advanced in the last two deca
 
 talk:  
 
-pic:  img/team/paris.png
+pic:  /img/team/paris.png
 
 ---

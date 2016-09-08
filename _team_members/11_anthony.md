@@ -9,6 +9,6 @@ bio: Anthony is particularly interested in how companies can have a positive soc
 
 talk: My favourite TED talk is Simon Sinek "How great leaders inspire action".
 
-pic:  img/team/anthony.png
+pic:  /img/team/anthony.png
 
 ---

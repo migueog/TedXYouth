@@ -9,6 +9,6 @@ bio: Andy is obsessed with fast cars, clever designs, and most of all – the sc
 
 talk: His favourite TED Talk is Chris Hadfield’s “What I learned from going blind in space”.
 
-pic:  img/team/andy.png
+pic:  /img/team/andy.png
 
 ---
