@@ -32,9 +32,11 @@ layout: hero
 		{% for speaker in site.speakers2015 limit:3 %}
 			<div class="speakers__item">
 				<img class="speakers__item--pic" src="{{ speaker.pic }}"/>
-				<h3 class="speakers__item--title">{{ speaker.name}}</h3>
-				<h4 class="speakers__item--title">{{ speaker.title }}</h4>
-				<p class="speakers__item--description">{{ speaker.desc }}</p>
+				<div class="speakers__item--text">
+					<h3 class="speakers__item--title">{{ speaker.name}}</h3>
+					<h4 class="speakers__item--title">{{ speaker.title }}</h4>
+					<p class="speakers__item--description">{{ speaker.desc }}</p>
+				</div>
 			</div>
 		{% endfor %}
 	</div>
@@ -45,9 +47,11 @@ layout: hero
 		{% for speaker in site.speakers2014 limit:3 %}
 			<div class="speakers__item">
 				<img class="speakers__item--pic" src="{{ speaker.pic }}"/>
-				<h3 class="speakers__item--title">{{ speaker.name}}</h3>
-				<h4 class="speakers__item--title">{{ speaker.title }}</h4>
-				<p class="speakers__item--description">{{ speaker.desc }}</p>
+				<div class="speakers__item--text">
+					<h3 class="speakers__item--title">{{ speaker.name}}</h3>
+					<h4 class="speakers__item--title">{{ speaker.title }}</h4>
+					<p class="speakers__item--description">{{ speaker.desc }}</p>
+				</div>
 			</div>
 		{% endfor %}
 	</div>

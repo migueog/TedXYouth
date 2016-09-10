@@ -11,9 +11,11 @@ permalink: /speakers/
 		{% for speaker in site.speakers2015 %}
 			<div class="speakers__item">
 				<img class="speakers__item--pic" src="{{ speaker.pic }}"/>
-				<h3 class="speakers__item--name">{{ speaker.name}}</h3>
-				<h4 class="speakers__item--description">{{ speaker.title }}</h4>
-				<button class="speakers__item--button"><a href="{{ speaker.url }}">Learn More</a></button>
+				<div class="speakers__item--text">
+					<h3 class="speakers__item--title">{{ speaker.name}}</h3>
+					<h4 class="speakers__item--title">{{ speaker.title }}</h4>
+					<button class="speakers__item--button"><a href="{{ speaker.url }}">Learn More</a></button>
+				</div>
 			</div>
 		{% endfor %}
 	</div>
@@ -23,9 +25,11 @@ permalink: /speakers/
 		{% for speaker in site.speakers2014 %}
 			<div class="speakers__item">
 				<img class="speakers__item--pic" src="{{ speaker.pic }}"/>
-				<h3 class="speakers__item--name">{{ speaker.name}}</h3>
-				<h4 class="speakers__item--description">{{ speaker.title }}</h4>
-				<button class="speakers__item--button"><a href="{{ speaker.url }}">Learn More</a></button>
+				<div class="speakers__item--text">
+					<h3 class="speakers__item--title">{{ speaker.name}}</h3>
+					<h4 class="speakers__item--title">{{ speaker.title }}</h4>
+					<button class="speakers__item--button"><a href="{{ speaker.url }}">Learn More</a></button>
+				</div>
 			</div>
 		{% endfor %}
 	</div>
