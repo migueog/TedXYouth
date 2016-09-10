@@ -216,6 +216,11 @@
   a {
     color: white;
   }
+  &:hover {
+    background: white;
+    color: black;
+    cursor: pointer;
+  }
 }
 .volunteer--button {
   padding: 5px 15px;
