@@ -6,7 +6,7 @@ permalink: /team/
 
 <div class="container">
 	{% for team_member in site.team_members %}
-	<div class="container__team_member">
+	<div class="container__team_member wow fadeInUp">
 		<div class="container__team_member--text">
 			<h2>{{team_member.fname}} {{team_member.lname}}</h2>
 			<h4>{{team_member.position}}</h4>
@@ -18,7 +18,7 @@ permalink: /team/
 		</div>
 	</div>
 	{% if forloop.last != true %}
-       <hr>
-    {% endif %}
+  <div class="divider wow fadeInUp"></div>
+  {% endif %}
 	{% endfor %}
 </div>

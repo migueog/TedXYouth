@@ -3,10 +3,10 @@ layout: hero
 ---
 
 <div class="hero">
-	<div class="hero__section">
+	<div class="hero__section wow fadeInUp">
 		<img src="../img/2016logo.png"/>
 	</div>
-	<div class="hero__section">
+	<div class="hero__section wow fadeInUp">
 		<div id="clockdiv">
 			<div><span class="days"></span><div class="smalltext">Days</div></div>
 			<svg width="1" height="140" xmlns="http://www.w3.org/2000/svg" version="1.1">
@@ -30,7 +30,7 @@ layout: hero
 	<h1>Our 2015 Speakers</h1>
 	<div class="speakers__section">
 		{% for speaker in site.speakers2015 limit:3 %}
-			<div class="speakers__item">
+			<div class="speakers__item wow fadeInUp">
 				<img class="speakers__item--pic" src="{{ speaker.pic }}"/>
 				<div class="speakers__item--text">
 					<h3 class="speakers__item--title">{{ speaker.name}}</h3>
@@ -40,12 +40,12 @@ layout: hero
 			</div>
 		{% endfor %}
 	</div>
-	<button class="speakers__btn"><a href="/speakers/">See more Speakers</a></button>
+	<button class="speakers__btn wow fadeInUp"><a href="/speakers/">See more Speakers</a></button>
 	<hr>
-	<h1>Our 2014 Speakers</h1>
-	<div class="speakers__section">
+	<h1 class="wow fadeInUp">Our 2014 Speakers</h1>
+	<div class="speakers__section wow fadeInUp">
 		{% for speaker in site.speakers2014 limit:3 %}
-			<div class="speakers__item">
+			<div class="speakers__item wow fadeInUp">
 				<img class="speakers__item--pic" src="{{ speaker.pic }}"/>
 				<div class="speakers__item--text">
 					<h3 class="speakers__item--title">{{ speaker.name}}</h3>
@@ -55,24 +55,12 @@ layout: hero
 			</div>
 		{% endfor %}
 	</div>
-	<button class="speakers__btn"><a href="/speakers/">See more Speakers</a></button>
+	<button class="speakers__btn wow fadeInUp"><a href="/speakers/">See more Speakers</a></button>
 </div>
-<!--<div class="community">
-	<h1 class="community__title	">Community</h1>
-	<div id="owl-example" class="owl-carousel">
- 		{% for blog in site.blog %}
- 			<div class="carousel__item">
-				<img class="carousel__item--pic" src"{{ blog.pic}}"/>
-				<h4 class="carousel__item--title"> {{blog.title}}</h4>
-				<p class="carousel__item--desc"> {{blog.desc}}</p>
- 			</div>
- 		{% endfor %}
-	</div>
-</div> -->
 <div class="filler">
 	<div class="filler__content">
 		<img class="filler__pic" src="../img/girls.png"/>
-		<div class="filler__text">
+		<div class="filler__text wow fadeInUp">
 			<h3 class="filler__text--big">In the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience.</h3>
 
 			<p class="filler__text--small">At a TEDx event, live speakers and TED videos combine to spark discussion and connection in an intimate setting. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program and attendance is capped as per TED regulations, but individual TEDx events are self-organized by members of the community.</p>
