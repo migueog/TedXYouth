@@ -2,6 +2,6 @@
 
 name: University Of Toronto
 
-pic:  /img/sponsors/uot.jpg
+pic:  /img/sponsors/02_uot.jpg
 
 ---

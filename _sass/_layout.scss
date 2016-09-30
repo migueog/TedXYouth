@@ -296,6 +296,118 @@
     }
   }
 }
+
+
+/*Sponsors*/
+
+.sponsors{
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 5%;
+}
+.sponsors__section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0 5%;
+}
+.sponsors__item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  width: 25%;
+  padding: 50px 15px;
+}
+.sponsors__item--medPic {
+  width: 50%;
+}
+.sponsors__item--smPic {
+  width: 25%;
+}
+.sponsors__item--name {
+  color: #114848;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 22px;
+}
+.sponsors__item--title {
+  color: #114848;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 18px;
+}
+.sponsors__item--description {
+  color: #A4A4A4;
+  font-weight: 300;
+  font-size: 18px;
+  font-weight: 700;
+}
+.sponsors__item--bio {
+  color: #A4A4A4;
+  font-weight: 300;
+  font-size: 12px;
+  font-weight: 700;
+}
+.sponsors__item--button {
+  padding: 5px 15px;
+  background: white;
+  border: 1px solid black;
+  text-transform: uppercase;
+}
+.sponsors__btn {
+  padding: 5px 15px;
+  background: white;
+  border: 1px solid black;
+  text-transform: uppercase;
+  margin-bottom: 50px;
+  font-size: 18px;
+}
+@media (max-width: $on-tablet) {
+  .sponsors__item--title {
+    font-size: 14px;
+  }
+}
+.sponsors__header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 30px;
+}
+.sponsors__header--text {
+  display: flex;
+  flex-direction: column;
+}
+.sponsors__content {
+  margin: 5%;
+}
+
+@media (max-width: $on-mobile) {
+  .sponsors__content {
+    margin: 0;
+  }
+  .sponsors__header{
+    img {
+      width: 50%;
+    }
+  }
+  .sponsors__header--text {
+    h1 {
+      font-size: 26px;
+    }
+    h2 {
+      font-size: 22px;
+    }
+  }
+}
+
 .social {
   display: flex;
   flex-direction: row;

@@ -1,5 +1,4 @@
 ---
-
 layout: speaker
 name: Luke Anderson
 title: Barrier-Free Advocate

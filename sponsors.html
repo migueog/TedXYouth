@@ -5,14 +5,17 @@ permalink: /sponsors/
 
 ---
 
-<div class="speakers">
+<div class="sponsors">
 	<h1>Past Sponsors</h1>
-	<div class="speakers__section">
+	<div class="sponsors__section">
 		{% for sponsor in site.sponsors %}
-			<div class="speakers__item wow fadeInUp">
-				<img class="speakers__item--pic" src="{{ sponsor.pic }}"/>
-				<div class="speakers__item--text">
-					<h3 class="speakers__item--title">{{ speaker.name}}</h3>
+			<div class="sponsors__item wow fadeInUp">
+				<img class="sponsors__item--pic" src="{{ sponsor.pic }}"/>
+				{% if sponsor.size == "medium" %}
+					<img class="sponsors__item--pic" src="{{ sponsor.pic }}"/>
+				{% endif%}
+				<div class="sponsors__item--text">
+					<h3 class="sponsors__item--title">{{ speaker.name}}</h3>
 				</div>
 			</div>
 		{% endfor %}

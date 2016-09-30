@@ -1,0 +1,10 @@
+---
+layout: speaker
+name: Melissa Sariffodeen
+title: Co-founder and CEO at Ladies Learning Code
+pic: /img/speakers/2016/melissa.png
+video:
+bio: Melissa is the Co-Founder and CEO of Ladies Learning Code. She's a fierce advocate for providing women and youth the critical skills, confidence and opportunities they need to become passionate builders - not just consumers of technology and to thrive in our increasingly digital world.  Since 2011, Ladies Learning Code has taught over 45,000 Canadians code through one of their programs and they're just getting started.
+---
+
+Melissa is the Co-Founder and CEO of Ladies Learning Code. She's a fierce advocate for providing women and youth the critical skills, confidence and opportunities they need to become passionate builders - not just consumers of technology and to thrive in our increasingly digital world.  Since 2011, Ladies Learning Code has taught over 45,000 Canadians code through one of their programs and they're just getting started.

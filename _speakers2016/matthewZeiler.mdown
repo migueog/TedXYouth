@@ -1,0 +1,10 @@
+---
+layout: speaker
+name: Matthew Zeiler
+title: Artificial intelligence expert
+pic: /img/speakers/2016/matthewZeiler.png
+video:
+bio: Matthew Zeiler is an artificial intelligence expert with a Ph.D. in machine learning from NYU. Matt has conducted groundbreaking research in visual recognition, alongside renowned machine learning pioneers Geoff Hinton and Yann LeCun and is the founder of Clarifai.
+---
+
+Matthew Zeiler is an artificial intelligence expert with a Ph.D. in machine learning from NYU. His groundbreaking research in visual recognition, alongside renowned machine learning pioneers Geoff Hinton and Yann LeCun, has propelled the image recognition industry from theory to real-world practice. As the founder of Clarifai, Matt is applying his award-winning research to create the best visual recognition solutions for businesses and developers and power the next generation of intelligent apps. Reach him @​MattZeiler​. 

@@ -1,0 +1,10 @@
+---
+layout: speaker
+name: Daniel Tal
+title: Co-founder of Dudebox
+pic: /img/speakers/2016/danielTal.jpg
+video:
+bio: Daniel Tal is the co-founder of a non-profit events planning organization known as DUDEBOX. Daniel's decade-long work in social innovation has been fuelled by his optimism, work ethic and community collaboration. DUDEBOX has grown from a small group of good friends to a successful organization that has raised and donated over $110,000 to various local and international charities
+---
+
+Daniel Tal is the co-founder of a non-profit events planning organization known as DUDEBOX and spearheads the development of various programs aimed directly at fostering community, ensuring that everyone involved has an amazing time and donating the profits to charity. Daniel's decade-long work in social innovation has been fuelled by his optimism, work ethic and community collaboration. DUDEBOX has since grown from a small group of good friends to a successful organization that has raised and donated over $110,000 to various local and international charities, gaining a lot of positive press and building a loyal following in the city’s downtown core. Daniel has skateboarded the length of New Zealand with Skate4Cancer (1366km), participated in a team bicycle ride from Toronto to New Orleans in under 6 days (2,000km) and has summited Mount Kilimanjaro!

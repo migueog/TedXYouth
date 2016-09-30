@@ -2,6 +2,6 @@
 
 name: Starbucks
 
-pic:  /img/sponsors/starbucks.JPG
+pic:  /img/sponsors/03_starbucks.JPG
 
 ---

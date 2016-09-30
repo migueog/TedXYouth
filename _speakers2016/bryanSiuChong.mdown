@@ -1,0 +1,9 @@
+---
+layout: speaker
+name: Bryan Siu-Chong
+title: Co-owner at Me.N.u Food Truck
+pic: /img/speakers/2016/bryanSiuChong.png
+video:
+---
+
+After graduating from McMaster University with a B.Com in 2011, Bryan followed his dreams of backpacking around Asia, and living in Whistler BC to become a Snowboard Instructor. Bryan discovered early on that a conventional lifestyle of working in the corporate world was not for him, and so he teamed up with long-time best friend Allen to create Toronto’s first ever Asian fusion food truck, Me.n.u. Having spent several summers as an Accountant and Manager at Wild Water Kingdom, Bryan gained the experience needed to start his own business venture with Allen. Together they have evolved Me.n.u from a small pop-up into one of the most popular food truck brands in Toronto. In 2016, the duo partnered with Chatime to bring Hawaiian Poké to Toronto with their first brick and motor restaurant called Pokito. Bryan lives the ‘Travel, Eat, Share’ philosophy and is passionate about inspiring others to follow their dreams and do what they love.
