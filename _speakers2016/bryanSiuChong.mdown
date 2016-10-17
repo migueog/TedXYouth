@@ -2,7 +2,7 @@
 layout: speaker
 name: Bryan Siu-Chong
 title: Co-owner at Me.N.u Food Truck
-pic: /img/speakers/2016/bryanSiuChong.png
+pic: /img/speakers/2016/bryan.png
 video:
 ---
 
