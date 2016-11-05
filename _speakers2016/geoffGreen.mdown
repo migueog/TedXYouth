@@ -2,7 +2,7 @@
 layout: speaker
 name: Geoff Green, C.M.
 title: Founder of Students on Ice
-pic: /img/speakers/2016/geoff.png
+pic: /img/speakers/2016/geoff.jpg
 video:
 bio: Educator, social entrepreneur and adventurer, Geoff is the Founder and President of the Students on Ice (SOI) Foundation. Geoff Green has led more than 130 expeditions to the Polar Regions, as well as numerous other journeys to many fascinating and remote corners of the Planet.
 ---

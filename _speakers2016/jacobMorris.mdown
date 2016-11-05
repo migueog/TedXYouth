@@ -2,7 +2,7 @@
 layout: speaker
 name: Jacob Morris
 title: Founder of Run to Wellness
-pic: /img/speakers/2016/jacob.png
+pic: /img/speakers/2016/jacob.jpg
 bio: Jacob Morris is a Toronto-based mental health advocate, digital media producer, and founder of Run to Wellness; a cross-Canada running campaign & documentary aimed at ending the stigma attached to depression and anxiety.
 ---
 

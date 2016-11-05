@@ -2,7 +2,7 @@
 layout: speaker
 name: Daniel Tal
 title: Co-founder of Dudebox
-pic: /img/speakers/2016/daniel.png
+pic: /img/speakers/2016/daniel.jpg
 video:
 bio: Daniel Tal is the co-founder of a non-profit events planning organization known as DUDEBOX. Daniel's decade-long work in social innovation has been fuelled by his optimism, work ethic and community collaboration. DUDEBOX has grown from a small group of good friends to a successful organization that has raised and donated over $110,000 to various local and international charities
 ---

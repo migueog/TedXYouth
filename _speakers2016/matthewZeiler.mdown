@@ -2,7 +2,7 @@
 layout: speaker
 name: Matthew Zeiler
 title: Artificial intelligence expert
-pic: /img/speakers/2016/matthew.png
+pic: /img/speakers/2016/matthew.jpg
 video:
 bio: Matthew Zeiler is an artificial intelligence expert with a Ph.D. in machine learning from NYU. Matt has conducted groundbreaking research in visual recognition, alongside renowned machine learning pioneers Geoff Hinton and Yann LeCun and is the founder of Clarifai.
 ---
