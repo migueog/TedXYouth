@@ -1,0 +1,12 @@
+---
+layout: speaker
+name: Clare Morneau
+title: Author and speaker
+pic: /img/speakers/2016/clare.png
+video:
+bio: Clare Morneau is a passionate advocate for girls’ education and refugee issues
+---
+
+A passionate advocate for girls’ education and refugee issues, Clare Morneau is a 17-year-old author and speaker who lives in Toronto with her father, Canada’s Finance Minister, Bill Morneau, mother, Nancy McCain, and siblings Henry, Edward and Grace Acan, who joined the family in 2010 from northern Uganda. Clare is compassionate, driven and committed to working for real change. As a student at Havergal College, she founded the Kakuma Toronto Girls Education Partnership. In the fall of 2016, she released her first book, Kakuma Girls. She completed a four-week internship at the Global Humanitarian Lab, a partner organization of the United Nations, in the summer of 2016 and has been named a Global Humanitarian Lab Youth Ambassador by the organization.
+
+Clare is a scheduled speaker at several high profile events in Canada this fall, including the UN’s One Young World Conference in Ottawa on Sept 30th and Walrus Talks: Africa’s Next Generation on Nov. 9, 2016 in Toronto. Clare will also be a part of the We Day Movement in the fall of 2016. Other speaking announcements will be coming soon.
