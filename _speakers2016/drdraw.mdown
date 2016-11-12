@@ -1,0 +1,10 @@
+---
+layout: speaker
+name: Dr.Draw
+title: Violinist
+pic: /img/speakers/2016/drdraw.jpg
+video:
+bio: Dr. Draw is the first violinist to venture into electronic music culture.
+---
+
+Dr. Draw is the first violinist to venture into electronic music culture. His style spans an eccentric lifetime and includes performances for royalty in Prague, creating near chaos at the Toronto Beaches Jazz Festival, and playing luxury brand events like Chloé and Dom Pérignon.  Lately, his reputation is growing eastward. Performances have included playing in Singapore, Taiwan, Sri Lanka, and a spate of Louis Vuitton events in Hong Kong, Malaysia, and South Korea. He has creatively interacted with cultures all across the world and continues to bring together the seemingly disparate elements of classical violin, jazz-rock fusion, folk, and pop into a riveting masala that feeds the soul and invigorates audiences.

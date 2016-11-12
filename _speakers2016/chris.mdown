@@ -1,0 +1,10 @@
+---
+layout: speaker
+name: Chris Cummins
+title: Leadership Expert & Emcee
+pic: /img/speakers/2016/chris.jpg
+video:
+bio: Dr. Draw is the first violinist to venture into electronic music culture.
+---
+
+Founder & Managing Partner, Cummins Media Inc., a consulting firm helping to develop tomorrow'sleaders.  Chris is a professional speaker.   He combines personal stories, real-world techniques, intelligence, humor, character voices, beat-boxing, and high-level strategy in the same presentation.  He has delivered programs to over 20,000 business owners and 500 organizations across North America including BMW, Fed-Ex, Microsoft and the Canadian Olympic Committee.  His upcoming book "There is A Person On The Other End" is about making real, human connections in an increasingly impersonal, electronic & automated world.

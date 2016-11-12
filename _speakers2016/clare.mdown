@@ -1,7 +1,7 @@
 ---
 layout: speaker
 name: Clare Morneau
-title: Author and speaker
+title: Author and UN Ambassador
 pic: /img/speakers/2016/clare.jpg
 video:
 bio: Clare Morneau is a passionate advocate for girls’ education and refugee issues
